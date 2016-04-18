@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Popular Movies II</string>
+    <string name="title_movie_detail">Movie Detail</string>
+
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_overview">Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.</string>
+    <string name="release_date">22 March 2016</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <string name="rating">8.41</string>
+    <string name="vote_count" formatted="false">(%d votes)</string>
+
+    <string name="sort_by">Sort By</string>
+    <string name="sort_popular">Popular</string>
+    <string name="sort_top_rated">Top Rated</string>
+    <string name="sort_now_playing">Now Playing</string>
+    <string name="sort_upcoming">Upcoming</string>
+    <string name="sort_favorite">Favorites</string>
+
+    <string name="portrait_poster_size_code">w185/</string>
+    <string name="landscape_poster_size_code">w342/</string>
+    <string name="video_name">Video Name</string>
+    <string name="video_type">Video Type</string>
+    <string name="author_name">Author Name</string>
+    <string name="review_text">The Hunger Games creator and mastermind Suzanne Collins has brought to life the explosive and resilient heroine Katniss Everdeen (not to mention the resourceful actress stepping into her action-oriented shoes and consciousness in the form of Oscar-winning actress Jennifer Lawrence). Now with the conclusive The Hunger Games: Mockingjay--Part 2 ardent and casual fans of this imaginative and charged film franchise will get a chance to soak in the cinematic experience that has carried them through this durable trilogy. However, the question remains: does Mockingjay--Part 2 fulfill the adventurous swagger of its previous predecessors as it demonstrates its furious farewell in moodiness and mischievousness? Well, the answer is a resounding YES but some will still address the concept of the film\'s emotional and psychological leanings as merely serviceable to a string of feisty films that invited such passion, pronouncement and promise in its commentary on class struggle and societal survival means as a whole.</string>
+
+    <string name="about_app">About</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="search_movies">search_movies</string>
+    <string name="sort_movies">Sort Movies</string>
+
+    <string name="query_string" formatted="false">Results for %s</string>
+    <string name="empty_favorite_movie_detail">Add Your Favorite Movies Here</string>
+    <string name="empty_other_movie_detail">Something went wrong</string>
+    <string name="empty_movie_list_title">No Movies Found</string>
+    <string name="overview">Overview</string>
+    <string name="videos">Videos</string>
+    <string name="review">Reviews</string>
+    <string name="about_text">This app helps users to discover popular, top rated, currently playing and
+        upcoming movies on the web.User can also search for movies. Save their favorite movies locally and access it offline. It displays a scrolling grid of movie trailers and launches
+        a details screen is launched whenever a particular movie is selected. Where users can watch trailers and read reviews about the movies.
+        Users can also share movie plots and trailers.</string>
+    <string name="app_name_secondary">Popular Movies App</string>
+    <string name="developed_by">developed by</string>
+    <string name="developer">Vivek Kiran</string>
+    <string name="by_10" translatable="false">/10</string>
+</resources>
